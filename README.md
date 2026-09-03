@@ -5,7 +5,7 @@ An end-to-end machine learning system that predicts a football player's **market
 ## Team
 
 * [Maii Walid](https://github.com/maii818)
-* [Menna Emad](https://github.com/MalakAshrafRezk)
+* [Menna Emad](https://github.com/menna0602)
 * [Farah Ibrahim](https://github.com/Farah-Ibrahim1405)
 * [Farah Hossam](https://github.com/FarahHossam126)
 * [Nourhan Essam](https://github.com/nourhanessam4)
