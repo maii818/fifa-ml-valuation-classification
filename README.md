@@ -4,11 +4,11 @@ An end-to-end machine learning system that predicts a football player's **market
 
 ## Team
 
-- Maii Walid
-- Menna Emad
-- Farah Ibrahim
-- Farah Hossam
-- Nourhan Essam
+* [Maii Walid](https://github.com/maii818)
+* [Menna Emad](https://github.com/MalakAshrafRezk)
+* [Farah Ibrahim](https://github.com/Farah-Ibrahim1405)
+* [Farah Hossam](https://github.com/FarahHossam126)
+* [Nourhan Essam](https://github.com/nourhanessam4)
 
 ## 1. Dataset
 
